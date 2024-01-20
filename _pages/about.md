@@ -8,13 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
 I'm a PhD student at the [Centre for Speech Technology Research (CSTR)](https://www.cstr.ed.ac.uk), affiliated with the Institute for Language, Cognition and Computation (ILCC), University of Edinburgh. I'm advised by [Dr. Catherine Lai](https://homepages.inf.ed.ac.uk/clai/) and [Prof. Peter Bell](https://homepages.inf.ed.ac.uk/pbell1/), and fully funded by the School of Informatics. I was an Enrichment student at the Alan Turing Institute, and a research intern at Microsoft Research.
@@ -36,7 +29,7 @@ I was supervised by [Prof. Tatsuya Kawahara](http://sap.ist.i.kyoto-u.ac.jp/memb
 
 # 🎖 Honors and Awards
 - *2023* IEEE SPS Scholarship, IEEE Signal Processing Society
-- *2023* Outstanding Paper Award, SAI workshop, ACII2023
+- *2023* Outstanding Paper Award, SAI workshop, ACII 2023
 - *2023* Gary Marsden Travel Award, ACM SIGCHI
 - *2022* Enrichment Student Award, Alan Turing Institute
 - *2021* Fully-funded PhD scholarship, University of Edinburgh
@@ -60,20 +53,27 @@ I was supervised by [Prof. Tatsuya Kawahara](http://sap.ist.i.kyoto-u.ac.jp/memb
 
 **Conference Review**
 - ICASSP'23-24
-- ASRU'23, Interspeech'23
+- ASRU'23
+- Interspeech'23
 - CHI'23 Late-Breaking Work
 - IJCLR'23 CogAI Workshop
 - SLT'22
 - UK Speech'22
 - Interspeech'22 Young Female Researchers in Speech Workshop 
-- ICMI'21 Late-Breaking Report & Doctoral Consortium
+- ICMI'21 Late-Breaking Report
+- ICMI'21 Doctoral Consortium
 - HRI'20 Late-Breaking Report
 
-**Organizations & Communities**
+**Organizations \& Communities**
+
 ACM, AAAC, ISCA, IEEE, IEEE Signal Processing Society, SIGCHI, UK Speech, UK-SIGMM, Alan Turing Institute
 
 
-# 💻 Experience
+# 💬 Invited Talks
+- *11.2022* Affective Human-Robot Interaction. Cognitive Developmental Robotics Lab, University of Tokyo
+
+
+# 💻 Experiences
 **Teaching**
 - TA (Coursework marker), Automatic Speech Recognition, University of Edinburgh, 2023
 - TA (Tutor, demonstrator, and project marker), System Design Project, University of Edinburgh, 2023
@@ -106,14 +106,12 @@ ACM, AAAC, ISCA, IEEE, IEEE Signal Processing Society, SIGCHI, UK Speech, UK-SIG
 
   Nanjing University of Posts and Telecommunications
 
-# 💬 Invited Talks
-- *11.2022*, Affective Human-Robot Interaction. Cognitive Developmental Robotics Lab, University of Tokyo
-
 
 # 📝 Publications 
 
 -- ***Papers*** --
-See my Google Scholar
+
+See my [Google Scholar](https://scholar.google.com/citations?hl=en&user=WYSrzUsAAAAJ&view_op=list_works&sortby=pubdate)
 
 -- ***Patents*** --
 - Feeling estimation device, feeling estimation method, and storage medium. US11107464B2, JP2020091302A, CN111341349A
