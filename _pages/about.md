@@ -74,12 +74,12 @@ I was supervised by [Prof. Tatsuya Kawahara](http://sap.ist.i.kyoto-u.ac.jp/memb
 
 
 # 💻 Experiences
--- ***Teaching*** --
+***Teaching***
 - TA (Coursework marker), Automatic Speech Recognition, University of Edinburgh, 2023
 - TA (Tutor, demonstrator, and project marker), System Design Project, University of Edinburgh, 2023
 - TA (Coursework and exam marker), Machine Learning, University of Edinburgh, 2022
 
--- ***Supervision*** -- 
+***Supervision***
 - Layerwise Analysis of HuBERT Acoustic Word Embeddings in the Context of Speech Emotion Recognition
 
   Alexandra Saliba, MSc dissertation 2023/24 (Distinction), University of Edinburgh
@@ -90,7 +90,7 @@ I was supervised by [Prof. Tatsuya Kawahara](http://sap.ist.i.kyoto-u.ac.jp/memb
 
   Junling Liu, MSc dissertation 2021/22, University of Edinburgh
 
--- ***Working*** --
+***Working***
 - Research Intern, Microsoft Research Audio&Acoustic Group
 - Researcher, Honda R&D Innovation Lab
 - R&D Engineer, NTT Data R&D headquarters
@@ -103,16 +103,16 @@ I was supervised by [Prof. Tatsuya Kawahara](http://sap.ist.i.kyoto-u.ac.jp/memb
 
 # 📝 Publications 
 
--- ***Papers*** --
+***Papers***
 
-See my [Google Scholar](https://scholar.google.com/citations?hl=en&user=WYSrzUsAAAAJ&view_op=list_works&sortby=pubdate)
+  See my [Google Scholar](https://scholar.google.com/citations?hl=en&user=WYSrzUsAAAAJ&view_op=list_works&sortby=pubdate)
 
--- ***Patents*** --
+***Patents***
 - Feeling estimation device, feeling estimation method, and storage medium. US11107464B2, JP2020091302A, CN111341349A
 - Information processing apparatus, information processing method, and storage medium. US11443759B2, JP2021026130A, CN112349301A
 - Information-processing device, vehicle, computer-readable storage medium, and information-processing method. US11710499B2, JP2021124642A, CN113221933A
 
--- ***Technical Reports*** --
+***Technical Reports***
 - Multimodal Dyadic Impression Recognition via Listener Adaptive Cross-Domain Fusion.
 
   **Yuanchao Li**, Peter Bell, Catherine Lai. UK Speech. 2023.
@@ -132,7 +132,7 @@ See my [Google Scholar](https://scholar.google.com/citations?hl=en&user=WYSrzUsA
   
   **Yuanchao Li**, Tatsuya Kawahara. The 44th Kansai Joint Speech Seminar. 2016.
 
--- ***Book Translation*** --
+***Book Translation***
 - The Easiest Handbook for Machine Learning Project: How to Implement AI (Japanese to Chinese)
 
   いちばんやさしい機械学習プロジェクトの教本 -- 人気講師が教えるAIを導入する方法
@@ -145,7 +145,7 @@ See my [Google Scholar](https://scholar.google.com/citations?hl=en&user=WYSrzUsA
 
   [超简单的人工智能 -- 人气讲师为你讲解AI商业应用](https://item.jd.com/13268339.html)
 
--- ***Media Articles*** --
+***Media Articles***
 
 - [Amazon is Building its Grocery Empire](https://syncedreview.com/2017/07/25/amazon-is-building-its-grocery-empire/). Synced Review. 2017-07-25
 - [Apple is in a Dilemma on iPhone's 10-year-old Birthday](https://syncedreview.com/2017/07/20/apple-is-in-a-dilemma-on-iphones-10-year-old-birthday/). Synced Review. 2017-07-20
