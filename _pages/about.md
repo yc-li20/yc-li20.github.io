@@ -101,7 +101,7 @@ I was fortunately supervised by [Prof. Tatsuya Kawahara](http://sap.ist.i.kyoto-
 
 ***- Papers -***
 
-    See my [Google Scholar](https://scholar.google.com/citations?hl=en&user=WYSrzUsAAAAJ&view_op=list_works&sortby=pubdate)
+  See my [Google Scholar](https://scholar.google.com/citations?hl=en&user=WYSrzUsAAAAJ&view_op=list_works&sortby=pubdate)
 
 ***- Patents -***
 - Feeling estimation device, feeling estimation method, and storage medium. US11107464B2, JP2020091302A, CN111341349A
