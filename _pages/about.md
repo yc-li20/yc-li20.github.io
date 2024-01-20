@@ -64,7 +64,7 @@ I was fortunately supervised by [Prof. Tatsuya Kawahara](http://sap.ist.i.kyoto-
 - ACM, AAAC, ISCA, IEEE, IEEE Signal Processing Society, SIGCHI, UK Speech, UK-SIGMM, Alan Turing Institute
 
 
-# 💬 Invited Talks
+# 🎙 Invited Talks
 - *11.2022*, Affective Human-Robot Interaction. Cognitive Developmental Robotics Lab, University of Tokyo
 
 
@@ -96,7 +96,7 @@ I was fortunately supervised by [Prof. Tatsuya Kawahara](http://sap.ist.i.kyoto-
 - B.Eng., Electronic and Information Engineering, Nanjing University of Posts and Telecommunications
 
 
-# 📝 Publications 
+# 📝 Publications
 
 ***- Papers -***
 - See my [Google Scholar](https://scholar.google.com/citations?hl=en&user=WYSrzUsAAAAJ&view_op=list_works&sortby=pubdate)
