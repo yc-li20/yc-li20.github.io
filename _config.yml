@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yuanchao Li"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/android-chrome-192x192.png"
   bio              : "3rd year PhD student at CSTR, University of Edinburgh"
   location         : "Edinburgh, UK"
   employer         :
