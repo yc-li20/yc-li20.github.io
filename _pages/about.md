@@ -38,33 +38,29 @@ I was fortunately supervised by [Prof. Tatsuya Kawahara](http://sap.ist.i.kyoto-
 
 
 # 👔 Research Activities
-***Organizing Committee***
+***- Organizing Committee -***
 - Special Session at Interspeech 2024: Responsible Speech Foundation Models
 - [UK Special Interest Group in Speech-Based Multimodal Information Processing](https://sites.google.com/view/uk-sigmm)
 - [UK Speech 2022](https://conferences.inf.ed.ac.uk/ukspeech2022/)
 
-***Program Committee***
+***- Program Committee -***
 - [INTERSPEECH'22 Young Female Researchers in Speech Workshop](https://sites.google.com/view/yfrsw-2022/)
 - [ICMI'21 Doctoral Consortium](https://icmi.acm.org/2021/index.php?id=cfdc)
 
-***Journal Review***
+***- Journal Review -***
 - IEEE Transactions on Affective Computing x2
 - Journal of Rehabilitation and Assistive Technologies Engineering x1
 
-***Conference Review***
-- ICASSP'23-24
-- ASRU'23
-- Interspeech'23
+***- Conference Review -***
+- ICASSP'23-24, ASRU'23, Interspeech'23, SLT'22, UK Speech'22
 - CHI'23 Late-Breaking Work
 - IJCLR'23 CogAI Workshop
-- SLT'22
-- UK Speech'22
 - Interspeech'22 Young Female Researchers in Speech Workshop 
 - ICMI'21 Late-Breaking Report
 - ICMI'21 Doctoral Consortium
 - HRI'20 Late-Breaking Report
 
-***Organizations & Communities***
+***- Organizations & Communities -***
 
   ACM, AAAC, ISCA, IEEE, IEEE Signal Processing Society, SIGCHI, UK Speech, UK-SIGMM, Alan Turing Institute
 
@@ -74,12 +70,12 @@ I was fortunately supervised by [Prof. Tatsuya Kawahara](http://sap.ist.i.kyoto-
 
 
 # 💻 Experiences
-***Teaching***
+***- Teaching -***
 - TA (Coursework marker), Automatic Speech Recognition, University of Edinburgh, 2023
 - TA (Tutor, demonstrator, and project marker), System Design Project, University of Edinburgh, 2023
 - TA (Coursework and exam marker), Machine Learning, University of Edinburgh, 2022
 
-***Supervision***
+***- Supervision -***
 - Layerwise Analysis of HuBERT Acoustic Word Embeddings in the Context of Speech Emotion Recognition
 
   Alexandra Saliba, MSc dissertation 2023/24 (Distinction), University of Edinburgh
@@ -90,7 +86,7 @@ I was fortunately supervised by [Prof. Tatsuya Kawahara](http://sap.ist.i.kyoto-
 
   Junling Liu, MSc dissertation 2021/22, University of Edinburgh
 
-***Working***
+***- Working -***
 - Research Intern, Microsoft Research Audio&Acoustic Group
 - Researcher, Honda R&D Innovation Lab
 - R&D Engineer, NTT Data R&D headquarters
@@ -103,16 +99,16 @@ I was fortunately supervised by [Prof. Tatsuya Kawahara](http://sap.ist.i.kyoto-
 
 # 📝 Publications 
 
-***Papers***
+***- Papers -***
 
   See my [Google Scholar](https://scholar.google.com/citations?hl=en&user=WYSrzUsAAAAJ&view_op=list_works&sortby=pubdate)
 
-***Patents***
+***- Patents -***
 - Feeling estimation device, feeling estimation method, and storage medium. US11107464B2, JP2020091302A, CN111341349A
 - Information processing apparatus, information processing method, and storage medium. US11443759B2, JP2021026130A, CN112349301A
 - Information-processing device, vehicle, computer-readable storage medium, and information-processing method. US11710499B2, JP2021124642A, CN113221933A
 
-***Technical Reports***
+***- Technical Reports -***
 - Multimodal Dyadic Impression Recognition via Listener Adaptive Cross-Domain Fusion.
 
   **Yuanchao Li**, Peter Bell, Catherine Lai. UK Speech. 2023.
@@ -132,7 +128,7 @@ I was fortunately supervised by [Prof. Tatsuya Kawahara](http://sap.ist.i.kyoto-
   
   **Yuanchao Li**, Tatsuya Kawahara. The 44th Kansai Joint Speech Seminar. 2016.
 
-***Book Translation***
+***- Book Translation -***
 - The Easiest Handbook for Machine Learning Project: How to Implement AI (Japanese to Chinese)
 
   いちばんやさしい機械学習プロジェクトの教本 -- 人気講師が教えるAIを導入する方法
