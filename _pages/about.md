@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a PhD student at the [Centre for Speech Technology Research (CSTR)](https://www.cstr.ed.ac.uk), affiliated with the Institute for Language, Cognition and Computation (ILCC), University of Edinburgh. I'm advised by [Dr. Catherine Lai](https://homepages.inf.ed.ac.uk/clai/) and [Prof. Peter Bell](https://homepages.inf.ed.ac.uk/pbell1/), and fully funded by the School of Informatics. I was an Enrichment student at the Alan Turing Institute, and a research intern at Microsoft Research.
+I'm a PhD student at the [Centre for Speech Technology Research (CSTR)](https://www.cstr.ed.ac.uk), affiliated with the Institute for Language, Cognition and Computation (ILCC), University of Edinburgh. I'm advised by [Dr. Catherine Lai](https://homepages.inf.ed.ac.uk/clai/) and [Prof. Peter Bell](https://homepages.inf.ed.ac.uk/pbell1/), and fully funded by the School of Informatics. I was an Enrichment student at the Alan Turing Institute, and a research intern at Microsoft Research <img src='./images/msr.jpg' style="width: 4em;">.
 
 My research aims to advance spoken language technologies in real-world applications by bridging different but relevant domains such as linguistics & paralinguistics, speech & language, emotion & health, etc. In particular, my work focuses on problems that hinder the broader use of spoken language technologies in the wild.
 
