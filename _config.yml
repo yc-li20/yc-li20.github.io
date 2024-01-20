@@ -8,8 +8,8 @@
 # Site Settings
 title                    : "Yuanchao Li"
 description              : "快乐是会饱和的,但痛苦不会"
-repository               : "yc-li20.github.io"
-google_scholar_stats_use_cdn : true
+repository               : "yc-li20/yc-li20.github.io"
+# google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuanchao Li"
   avatar           : "images/android-chrome-192x192.png"
-  bio              : "3rd year PhD student at CSTR, University of Edinburgh"
+  bio              : "PhD student at CSTR, University of Edinburgh"
   location         : "Edinburgh, UK"
   employer         :
   pubmed           : 
