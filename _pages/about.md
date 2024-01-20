@@ -26,58 +26,143 @@ I was supervised by [Prof. Tatsuya Kawahara](http://sap.ist.i.kyoto-u.ac.jp/memb
 
 
 # 🔥 News
-- *01/2024*: Our special session **Responsible Speech Foundation Models** has been accepted by Interspeech 2024.
-- *11/2023*: **[Microsoft FADTK(https://github.com/microsoft/fadtk)]**, a Frechet audio distance toolkit has been released, to which I contributed its speech models.
-- *09/2023*: &nbsp;🎉 Received the **IEEE SPS Scholarship** from the IEEE Signal Processing Society.
-- *09/2023*: &nbsp;🎉 Received the **Outstanding Paper Award** at the SAI workshop, ACII2023, MIT Media Lab.
-- *06/2023*: One grant proposal (as Co-Investigator) **Development of A Human-Centric Elderly Driving Education System** has been accepted by the Inter-University Research Institute Corporation, Research Organization of Information and Systems (ROIS).
-- *03/2023*: &nbsp;🎉 Received the **Gary Marsden Travel Award** from ACM SIGCHI.
+- *01.2024*: Our special session **Responsible Speech Foundation Models** has been accepted by Interspeech 2024.
+- *11.2023*: **[Microsoft FADTK(https://github.com/microsoft/fadtk)]**, a Frechet audio distance toolkit has been released, to which I contributed its speech models.
+- *09.2023*: Received the **IEEE SPS Scholarship** from the IEEE Signal Processing Society. &nbsp;🎉
+- *09.2023*: Received the **Outstanding Paper Award** at the SAI workshop, ACII2023, MIT Media Lab. &nbsp;🎉
+- *06.2023*: One grant proposal (as Co-Investigator) **Development of A Human-Centric Elderly Driving Education System** has been accepted by the Inter-University Research Institute Corporation, Research Organization of Information and Systems (ROIS).
+- *03.2023*: Received the **Gary Marsden Travel Award** from ACM SIGCHI. &nbsp;🎉
 
-# 👔 Experience
+
+# 🎖 Honors and Awards
+- *2023* IEEE SPS Scholarship, IEEE Signal Processing Society
+- *2023* Outstanding Paper Award, SAI workshop, ACII2023
+- *2023* Gary Marsden Travel Award, ACM SIGCHI
+- *2022* Enrichment Student Award, Alan Turing Institute
+- *2021* Fully-funded PhD scholarship, University of Edinburgh
+- *2016* Seiwa international scholarship, Kyoto University
+- *2013* Third-class academic excellence scholarship, NUPT
+
+
+# 👔 Research Activities
+**Organizing Committee**
+- Special Session at Interspeech 2024: Responsible Speech Foundation Models
+- [UK Special Interest Group in Speech-Based Multimodal Information Processing](https://sites.google.com/view/uk-sigmm)
+- [UK Speech 2022](https://conferences.inf.ed.ac.uk/ukspeech2022/)
+
+**Program Committee**
+- [INTERSPEECH'22 Young Female Researchers in Speech Workshop](https://sites.google.com/view/yfrsw-2022/)
+- [ICMI'21 Doctoral Consortium](https://icmi.acm.org/2021/index.php?id=cfdc)
+
+**Journal Review**
+- IEEE Transactions on Affective Computing x2
+- Journal of Rehabilitation and Assistive Technologies Engineering x1
+
+**Conference Review**
+- ICASSP'23-24
+- ASRU'23, Interspeech'23
+- CHI'23 Late-Breaking Work
+- IJCLR'23 CogAI Workshop
+- SLT'22
+- UK Speech'22
+- Interspeech'22 Young Female Researchers in Speech Workshop 
+- ICMI'21 Late-Breaking Report & Doctoral Consortium
+- HRI'20 Late-Breaking Report
+
+**Organizations & Communities**
+ACM, AAAC, ISCA, IEEE, IEEE Signal Processing Society, SIGCHI, UK Speech, UK-SIGMM, Alan Turing Institute
+
+
+# 💻 Experience
 **Teaching**
-- *2023*
-TA (Coursework marker), Automatic Speech Recognition, University of Edinburgh
-TA (Tutor, demonstrator, and project marker), System Design Project, University of Edinburgh
-- *2022*
-TA (Coursework and exam marker), Machine Learning, University of Edinburgh
-
+- TA (Coursework marker), Automatic Speech Recognition, University of Edinburgh, 2023
+- TA (Tutor, demonstrator, and project marker), System Design Project, University of Edinburgh, 2023
+- TA (Coursework and exam marker), Machine Learning, University of Edinburgh, 2022
 
 **Supervision**
 - Layerwise Analysis of HuBERT Acoustic Word Embeddings in the Context of Speech Emotion Recognition
+
   Alexandra Saliba, MSc dissertation 2023/24 (Distinction), University of Edinburgh
 - Hierarchical Cross-Modal Transformer and A Study of Cross-Modal Attention for Affective Computing
+
   Yaoting Wang, MSc dissertation 2022/23 (Distinction), University of Edinburgh
 - A Cross-Domain Study of Crossmodal Attention Based Multimodal Emotion Recognition
+
   Junling Liu, MSc dissertation 2021/22, University of Edinburgh
+
+**Working**
+- Research Intern, Microsoft Research Audio&Acoustic Group
+- Researcher, Honda R&D Innovation Lab
+- R&D Engineer, NTT Data R&D headquarters
+
+# 📖 Educations
+- Ph.D. Candidate, Artificial Intelligence
+
+  University of Edinburgh
+- M.Sc., Intelligence Science and Technology
+  
+  Kyoto University
+- B.Eng., Electronic and Information Engineering
+
+  Nanjing University of Posts and Telecommunications
+
+# 💬 Invited Talks
+- *11.2022*, Affective Human-Robot Interaction. Cognitive Developmental Robotics Lab, University of Tokyo
 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+-- ***Papers*** --
+See my Google Scholar
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+-- ***Patents*** --
+- Feeling estimation device, feeling estimation method, and storage medium. US11107464B2, JP2020091302A, CN111341349A
+- Information processing apparatus, information processing method, and storage medium. US11443759B2, JP2021026130A, CN112349301A
+- Information-processing device, vehicle, computer-readable storage medium, and information-processing method. US11710499B2, JP2021124642A, CN113221933A
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+-- ***Technical Reports*** --
+- Multimodal Dyadic Impression Recognition via Listener Adaptive Cross-Domain Fusion.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+  **Yuanchao Li**, Peter Bell, Catherine Lai. UK Speech. 2023.
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- Exploration of A Self-Supervised Speech Model: A Study on Emotional Corpora.
+  **Yuanchao Li**, Yumnah Mohamied, Peter Bell, Catherine Lai. UK Speech. 2022.
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- An Extensible End-to-End Multitask Learning Model for Recognizing Driver States.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+  **Yuanchao Li**. The 12th Honda R&D Technical Forum. 2019.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- Processing User States in Spoken Dialog Systems for Human-Robot Interaction.
+  
+  **Yuanchao Li**. International Design Symposium in Kyoto. 2017.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- Assessment Selection for Human-Robot Interaction based on Emotion Recognition Combining Prosody and Text Information.
+  
+  **Yuanchao Li**, Tatsuya Kawahara. The 44th Kansai Joint Speech Seminar. 2016.
+
+-- ***Book Translation*** --
+- The Easiest Handbook for Machine Learning Project: How to Implement AI (Japanese to Chinese)
+
+  いちばんやさしい機械学習プロジェクトの教本 -- 人気講師が教えるAIを導入する方法
+
+  [超简单的机器学习 -- 人气讲师为你讲解AI在工作中的应用](https://item.jd.com/13218999.html)
+
+- The Easiest Handbook for Artificial Intelligence Business: Commercializing AI and Machine Learning (Japanese to Chinese)
+
+  いちばんやさしい人工知能ビジネスの教本 -- 人気講師が教えるAI・機械学習の事業化
+
+  [超简单的人工智能 -- 人气讲师为你讲解AI商业应用](https://item.jd.com/13268339.html)
+
+-- ***Media Articles*** --
+
+- [Amazon is Building its Grocery Empire](https://syncedreview.com/2017/07/25/amazon-is-building-its-grocery-empire/). Synced Review. 2017-07-25
+- [Apple is in a Dilemma on iPhone's 10-year-old Birthday](https://syncedreview.com/2017/07/20/apple-is-in-a-dilemma-on-iphones-10-year-old-birthday/). Synced Review. 2017-07-20
+- [Conversational Systems: A General Review](https://syncedreview.com/2017/06/27/conversational-systems-a-general-review/). Synced Review. 2017-06-27
+- [Does Fitness Data Make the Average Person Healthier](https://syncedreview.com/2017/06/09/does-fitness-data-make-the-average-person-healthier/). Synced Review. 2017-06-09
+- [25 Tweets to Know You: A New Model to Predict Personality with Social Media](https://syncedreview.com/2017/05/30/25-tweets-to-know-you-a-new-model-to-predict-personality-with-social-media/). Synced Review. 2017-05-30
+- [Why AlphaGo is not AI](https://syncedreview.com/2017/05/12/why-alphago-is-not-ai/). Synced Review. 2017-05-12
+- [Artificial Intelligence is the New Electricity -- Andrew Ng](https://syncedreview.com/2017/04/28/artificial-intelligence-is-the-new-electricity-andrew-ng/). Synced Review. 2017-04-28
+- [The Time to Marry AI May Come Soon](https://syncedreview.com/2017/04/27/the-time-to-marry-ai-may-come-soon/). Synced Review. 2017-04-24
+- [ERICA: The ERATO Intelligent Conversational Android](https://syncedreview.com/2017/03/24/erica-the-erato-intelligent-conversational-android/). Synced Review. 2017-03-24
+- [Statistical Spoken Dialogue Systems and the Challenges for Machine Learning](https://syncedreview.com/2017/03/15/statistical-spoken-dialogue-systems-and-the-challenges-for-machine-learning/). Synced Review. 2017-03-15
+- [Emotional Intelligence is the Future of Artificial Intelligence](https://syncedreview.com/2017/03/14/emotional-intelligence-is-the-future-of-artificial-intelligence/). Synced Review. 2017-03-14
