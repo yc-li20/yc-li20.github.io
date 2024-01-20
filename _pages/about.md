@@ -21,13 +21,35 @@ I'm a PhD student at the [Centre for Speech Technology Research (CSTR)](https://
 
 My research aims to advance spoken language technologies in real-world applications by bridging different but relevant domains such as linguistics & paralinguistics, speech & language, emotion & health, etc. In particular, my work focuses on problems that hinder the broader use of spoken language technologies in the wild.
 
+Before starting my PhD, I used to research on affective computing and human-robot interaction at Honda Innovation Lab, [Hiroshi Ishiguro Lab ATR](http://www.geminoid.jp/en/index.html), and [Speech and Audio Processing Lab](http://sap.ist.i.kyoto-u.ac.jp/EN/).
+I was supervised by [Prof. Tatsuya Kawahara](http://sap.ist.i.kyoto-u.ac.jp/members/kawahara/) (FIEEE) and co-supervised by [Prof. Nigel Ward](https://hb2504.utep.edu/Home/Profile?username=nigel) and [Prof. Carlos Ishi](http://www.irc.atr.jp/~carlos/).
+
 
 # 🔥 News
-- *Jan 2024* Our special session **Responsible Speech Foundation Models** has been accepted by Interspeech 2024.
-- *Nov 2023* **[Microsoft FADTK]**(https://github.com/microsoft/fadtk), a Frechet audio distance toolkit has been released, to which I contributed its speech models.
+- *01/2024*: Our special session **Responsible Speech Foundation Models** has been accepted by Interspeech 2024.
+- *11/2023*: **[Microsoft FADTK(https://github.com/microsoft/fadtk)]**, a Frechet audio distance toolkit has been released, to which I contributed its speech models.
+- *09/2023*: &nbsp;🎉 Received the **IEEE SPS Scholarship** from the IEEE Signal Processing Society.
+- *09/2023*: &nbsp;🎉 Received the **Outstanding Paper Award** at the SAI workshop, ACII2023, MIT Media Lab.
+- *06/2023*: One grant proposal (as Co-Investigator) **Development of A Human-Centric Elderly Driving Education System** has been accepted by the Inter-University Research Institute Corporation, Research Organization of Information and Systems (ROIS).
+- *03/2023*: &nbsp;🎉 Received the **Gary Marsden Travel Award** from ACM SIGCHI.
 
-- *2022.02*: &nbsp; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 👔 Experience
+**Teaching**
+- *2023*
+TA (Coursework marker), Automatic Speech Recognition, University of Edinburgh
+TA (Tutor, demonstrator, and project marker), System Design Project, University of Edinburgh
+- *2022*
+TA (Coursework and exam marker), Machine Learning, University of Edinburgh
+
+
+**Supervision**
+- Layerwise Analysis of HuBERT Acoustic Word Embeddings in the Context of Speech Emotion Recognition
+  Alexandra Saliba, MSc dissertation 2023/24 (Distinction), University of Edinburgh
+- Hierarchical Cross-Modal Transformer and A Study of Cross-Modal Attention for Affective Computing
+  Yaoting Wang, MSc dissertation 2022/23 (Distinction), University of Edinburgh
+- A Cross-Domain Study of Crossmodal Attention Based Multimodal Emotion Recognition
+  Junling Liu, MSc dissertation 2021/22, University of Edinburgh
+
 
 # 📝 Publications 
 
