@@ -18,7 +18,22 @@ Before starting my PhD, I used to research on affective computing and human-robo
 I was fortunate to be advised by [Prof. Tatsuya Kawahara](http://sap.ist.i.kyoto-u.ac.jp/members/kawahara/) (FIEEE), [Prof. Nigel Ward](https://hb2504.utep.edu/Home/Profile?username=nigel), and [Prof. Carlos Ishi](http://www.irc.atr.jp/~carlos/).
 
 
-# 🔥 News
+{% include_relative includes/news.md %}
+
+{% include_relative includes/honors.md %}
+
+{% include_relative includes/activities.md %}
+
+{% include_relative includes/talks.md %}
+
+{% include_relative includes/experiences.md %}
+
+{% include_relative includes/educations.md %}
+
+{% include_relative includes/publications.md %}
+
+
+<!-- # 🔥 News
 - *01.2024*, Our special session **Responsible Speech Foundation Models** has been accepted by Interspeech 2024.
 - *11.2023*, **[Microsoft FADTK](https://github.com/microsoft/fadtk)**, a Frechet audio distance toolkit has been released, to which I contributed its speech models.
 - *09.2023*, Received the **IEEE SPS Scholarship** from the IEEE Signal Processing Society. &nbsp;🎉
@@ -151,4 +166,4 @@ I was fortunate to be advised by [Prof. Tatsuya Kawahara](http://sap.ist.i.kyoto
 - [The Time to Marry AI May Come Soon](https://syncedreview.com/2017/04/27/the-time-to-marry-ai-may-come-soon/). Synced Review
 - [ERICA: The ERATO Intelligent Conversational Android](https://syncedreview.com/2017/03/24/erica-the-erato-intelligent-conversational-android/). Synced Review
 - [Statistical Spoken Dialogue Systems and the Challenges for Machine Learning](https://syncedreview.com/2017/03/15/statistical-spoken-dialogue-systems-and-the-challenges-for-machine-learning/). Synced Review
-- [Emotional Intelligence is the Future of Artificial Intelligence](https://syncedreview.com/2017/03/14/emotional-intelligence-is-the-future-of-artificial-intelligence/). Synced Review
+- [Emotional Intelligence is the Future of Artificial Intelligence](https://syncedreview.com/2017/03/14/emotional-intelligence-is-the-future-of-artificial-intelligence/). Synced Review -->
