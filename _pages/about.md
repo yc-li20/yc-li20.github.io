@@ -19,22 +19,22 @@ I was supervised by [Prof. Tatsuya Kawahara](http://sap.ist.i.kyoto-u.ac.jp/memb
 
 
 # 🔥 News
-- *01.2024*: Our special session **Responsible Speech Foundation Models** has been accepted by Interspeech 2024.
-- *11.2023*: **[Microsoft FADTK(https://github.com/microsoft/fadtk)]**, a Frechet audio distance toolkit has been released, to which I contributed its speech models.
-- *09.2023*: Received the **IEEE SPS Scholarship** from the IEEE Signal Processing Society. &nbsp;🎉
-- *09.2023*: Received the **Outstanding Paper Award** at the SAI workshop, ACII2023, MIT Media Lab. &nbsp;🎉
-- *06.2023*: One grant proposal (as Co-Investigator) **Development of A Human-Centric Elderly Driving Education System** has been accepted by the Inter-University Research Institute Corporation, Research Organization of Information and Systems (ROIS).
-- *03.2023*: Received the **Gary Marsden Travel Award** from ACM SIGCHI. &nbsp;🎉
+- *01.2024*. Our special session **Responsible Speech Foundation Models** has been accepted by Interspeech 2024.
+- *11.2023*. **[Microsoft FADTK(https://github.com/microsoft/fadtk)]**, a Frechet audio distance toolkit has been released, to which I contributed its speech models.
+- *09.2023*. Received the **IEEE SPS Scholarship** from the IEEE Signal Processing Society. &nbsp;🎉
+- *09.2023*. Received the **Outstanding Paper Award** at the SAI workshop, ACII2023, MIT Media Lab. &nbsp;🎉
+- *06.2023*. One grant proposal (as Co-Investigator) **Development of A Human-Centric Elderly Driving Education System** has been accepted by the Inter-University Research Institute Corporation, Research Organization of Information and Systems (ROIS).
+- *03.2023*. Received the **Gary Marsden Travel Award** from ACM SIGCHI. &nbsp;🎉
 
 
 # 🎖 Honors and Awards
-- *2023* IEEE SPS Scholarship, IEEE Signal Processing Society
-- *2023* Outstanding Paper Award, SAI workshop, ACII 2023
-- *2023* Gary Marsden Travel Award, ACM SIGCHI
-- *2022* Enrichment Student Award, Alan Turing Institute
-- *2021* Fully-funded PhD scholarship, University of Edinburgh
-- *2016* Seiwa international scholarship, Kyoto University
-- *2013* Third-class academic excellence scholarship, NUPT
+- *2023*. IEEE SPS Scholarship, IEEE Signal Processing Society
+- *2023*. Outstanding Paper Award, SAI workshop, ACII 2023
+- *2023*. Gary Marsden Travel Award, ACM SIGCHI
+- *2022*. Enrichment Student Award, Alan Turing Institute
+- *2021*. Fully-funded PhD scholarship, University of Edinburgh
+- *2016*. Seiwa international scholarship, Kyoto University
+- *2013*. Third-class academic excellence scholarship, NUPT
 
 
 # 👔 Research Activities
@@ -70,7 +70,7 @@ ACM, AAAC, ISCA, IEEE, IEEE Signal Processing Society, SIGCHI, UK Speech, UK-SIG
 
 
 # 💬 Invited Talks
-- *11.2022* Affective Human-Robot Interaction. Cognitive Developmental Robotics Lab, University of Tokyo
+- *11.2022*. Affective Human-Robot Interaction. Cognitive Developmental Robotics Lab, University of Tokyo
 
 
 # 💻 Experiences
@@ -96,15 +96,9 @@ ACM, AAAC, ISCA, IEEE, IEEE Signal Processing Society, SIGCHI, UK Speech, UK-SIG
 - R&D Engineer, NTT Data R&D headquarters
 
 # 📖 Educations
-- Ph.D. Candidate, Artificial Intelligence
-
-  University of Edinburgh
-- M.Sc., Intelligence Science and Technology
-  
-  Kyoto University
-- B.Eng., Electronic and Information Engineering
-
-  Nanjing University of Posts and Telecommunications
+- Ph.D. Candidate, Informatics, University of Edinburgh
+- M.Sc., Intelligence Science and Technology, Kyoto University
+- B.Eng., Electronic and Information Engineering, Nanjing University of Posts and Telecommunications
 
 
 # 📝 Publications 
