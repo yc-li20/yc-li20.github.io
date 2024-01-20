@@ -15,43 +15,43 @@ I'm a PhD student at the [Centre for Speech Technology Research (CSTR)](https://
 My research aims to advance spoken language technologies in real-world applications by bridging different but relevant domains such as linguistics & paralinguistics, speech & language, emotion & health, etc. In particular, my work focuses on problems that hinder the broader use of spoken language technologies in the wild.
 
 Before starting my PhD, I used to research on affective computing and human-robot interaction at Honda Innovation Lab, [Hiroshi Ishiguro Lab ATR](http://www.geminoid.jp/en/index.html), and [Speech and Audio Processing Lab](http://sap.ist.i.kyoto-u.ac.jp/EN/).
-I was supervised by [Prof. Tatsuya Kawahara](http://sap.ist.i.kyoto-u.ac.jp/members/kawahara/) (FIEEE) and co-supervised by [Prof. Nigel Ward](https://hb2504.utep.edu/Home/Profile?username=nigel) and [Prof. Carlos Ishi](http://www.irc.atr.jp/~carlos/).
+I was supervised by [Prof. Tatsuya Kawahara](http://sap.ist.i.kyoto-u.ac.jp/members/kawahara/) and co-supervised by [Prof. Nigel Ward](https://hb2504.utep.edu/Home/Profile?username=nigel) and [Prof. Carlos Ishi](http://www.irc.atr.jp/~carlos/).
 
 
 # 🔥 News
-- *01.2024*. Our special session **Responsible Speech Foundation Models** has been accepted by Interspeech 2024.
-- *11.2023*. **[Microsoft FADTK(https://github.com/microsoft/fadtk)]**, a Frechet audio distance toolkit has been released, to which I contributed its speech models.
-- *09.2023*. Received the **IEEE SPS Scholarship** from the IEEE Signal Processing Society. &nbsp;🎉
-- *09.2023*. Received the **Outstanding Paper Award** at the SAI workshop, ACII2023, MIT Media Lab. &nbsp;🎉
-- *06.2023*. One grant proposal (as Co-Investigator) **Development of A Human-Centric Elderly Driving Education System** has been accepted by the Inter-University Research Institute Corporation, Research Organization of Information and Systems (ROIS).
-- *03.2023*. Received the **Gary Marsden Travel Award** from ACM SIGCHI. &nbsp;🎉
+- *01.2024*, Our special session **Responsible Speech Foundation Models** has been accepted by Interspeech 2024.
+- *11.2023*, **[Microsoft FADTK(https://github.com/microsoft/fadtk)]**, a Frechet audio distance toolkit has been released, to which I contributed its speech models.
+- *09.2023*, Received the **IEEE SPS Scholarship** from the IEEE Signal Processing Society. &nbsp;🎉
+- *09.2023*, Received the **Outstanding Paper Award** at the SAI workshop, ACII2023, MIT Media Lab. &nbsp;🎉
+- *06.2023*, One grant proposal (as Co-Investigator) **Development of A Human-Centric Elderly Driving Education System** has been accepted by the Inter-University Research Institute Corporation, Research Organization of Information and Systems (ROIS).
+- *03.2023*, Received the **Gary Marsden Travel Award** from ACM SIGCHI. &nbsp;🎉
 
 
 # 🎖 Honors and Awards
-- *2023*. IEEE SPS Scholarship, IEEE Signal Processing Society
-- *2023*. Outstanding Paper Award, SAI workshop, ACII 2023
-- *2023*. Gary Marsden Travel Award, ACM SIGCHI
-- *2022*. Enrichment Student Award, Alan Turing Institute
-- *2021*. Fully-funded PhD scholarship, University of Edinburgh
-- *2016*. Seiwa international scholarship, Kyoto University
-- *2013*. Third-class academic excellence scholarship, NUPT
+- *2023*, IEEE SPS Scholarship, IEEE Signal Processing Society
+- *2023*, Outstanding Paper Award, SAI workshop, ACII 2023
+- *2023*, Gary Marsden Travel Award, ACM SIGCHI
+- *2022*, Enrichment Student Award, Alan Turing Institute
+- *2021*, Fully-funded PhD scholarship, University of Edinburgh
+- *2016*, Seiwa international scholarship, Kyoto University
+- *2013*, Third-class academic excellence scholarship, NUPT
 
 
 # 👔 Research Activities
-**Organizing Committee**
+***Organizing Committee***
 - Special Session at Interspeech 2024: Responsible Speech Foundation Models
 - [UK Special Interest Group in Speech-Based Multimodal Information Processing](https://sites.google.com/view/uk-sigmm)
 - [UK Speech 2022](https://conferences.inf.ed.ac.uk/ukspeech2022/)
 
-**Program Committee**
+***Program Committee***
 - [INTERSPEECH'22 Young Female Researchers in Speech Workshop](https://sites.google.com/view/yfrsw-2022/)
 - [ICMI'21 Doctoral Consortium](https://icmi.acm.org/2021/index.php?id=cfdc)
 
-**Journal Review**
+***Journal Review***
 - IEEE Transactions on Affective Computing x2
 - Journal of Rehabilitation and Assistive Technologies Engineering x1
 
-**Conference Review**
+***Conference Review***
 - ICASSP'23-24
 - ASRU'23
 - Interspeech'23
@@ -64,22 +64,22 @@ I was supervised by [Prof. Tatsuya Kawahara](http://sap.ist.i.kyoto-u.ac.jp/memb
 - ICMI'21 Doctoral Consortium
 - HRI'20 Late-Breaking Report
 
-**Organizations \& Communities**
+***Organizations & Communities***
 
-ACM, AAAC, ISCA, IEEE, IEEE Signal Processing Society, SIGCHI, UK Speech, UK-SIGMM, Alan Turing Institute
+  ACM, AAAC, ISCA, IEEE, IEEE Signal Processing Society, SIGCHI, UK Speech, UK-SIGMM, Alan Turing Institute
 
 
 # 💬 Invited Talks
-- *11.2022*. Affective Human-Robot Interaction. Cognitive Developmental Robotics Lab, University of Tokyo
+- *11.2022*, Affective Human-Robot Interaction. Cognitive Developmental Robotics Lab, University of Tokyo
 
 
 # 💻 Experiences
-**Teaching**
+***Teaching***
 - TA (Coursework marker), Automatic Speech Recognition, University of Edinburgh, 2023
 - TA (Tutor, demonstrator, and project marker), System Design Project, University of Edinburgh, 2023
 - TA (Coursework and exam marker), Machine Learning, University of Edinburgh, 2022
 
-**Supervision**
+***Supervision***
 - Layerwise Analysis of HuBERT Acoustic Word Embeddings in the Context of Speech Emotion Recognition
 
   Alexandra Saliba, MSc dissertation 2023/24 (Distinction), University of Edinburgh
@@ -90,7 +90,7 @@ ACM, AAAC, ISCA, IEEE, IEEE Signal Processing Society, SIGCHI, UK Speech, UK-SIG
 
   Junling Liu, MSc dissertation 2021/22, University of Edinburgh
 
-**Working**
+***Working***
 - Research Intern, Microsoft Research Audio&Acoustic Group
 - Researcher, Honda R&D Innovation Lab
 - R&D Engineer, NTT Data R&D headquarters
