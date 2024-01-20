@@ -20,7 +20,7 @@ I was fortunately supervised by [Prof. Tatsuya Kawahara](http://sap.ist.i.kyoto-
 
 # 🔥 News
 - *01.2024*, Our special session **Responsible Speech Foundation Models** has been accepted by Interspeech 2024.
-- *11.2023*, **[Microsoft FADTK(https://github.com/microsoft/fadtk)]**, a Frechet audio distance toolkit has been released, to which I contributed its speech models.
+- *11.2023*, **[Microsoft FADTK](https://github.com/microsoft/fadtk)**, a Frechet audio distance toolkit has been released, to which I contributed its speech models.
 - *09.2023*, Received the **IEEE SPS Scholarship** from the IEEE Signal Processing Society. &nbsp;🎉
 - *09.2023*, Received the **Outstanding Paper Award** at the SAI workshop, ACII2023, MIT Media Lab. &nbsp;🎉
 - *06.2023*, One grant proposal (as Co-Investigator) **Development of A Human-Centric Elderly Driving Education System** has been accepted by the Inter-University Research Institute Corporation, Research Organization of Information and Systems (ROIS).
@@ -145,7 +145,7 @@ I was fortunately supervised by [Prof. Tatsuya Kawahara](http://sap.ist.i.kyoto-
 
   [超简单的人工智能 -- 人气讲师为你讲解AI商业应用](https://item.jd.com/13268339.html)
 
-***Media Articles***
+***- Media Articles -***
 
 - [Amazon is Building its Grocery Empire](https://syncedreview.com/2017/07/25/amazon-is-building-its-grocery-empire/). Synced Review. 2017-07-25
 - [Apple is in a Dilemma on iPhone's 10-year-old Birthday](https://syncedreview.com/2017/07/20/apple-is-in-a-dilemma-on-iphones-10-year-old-birthday/). Synced Review. 2017-07-20
