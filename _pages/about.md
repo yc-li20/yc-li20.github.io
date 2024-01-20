@@ -15,7 +15,7 @@ I'm a PhD student at the [Centre for Speech Technology Research (CSTR)](https://
 My research aims to advance spoken language technologies in real-world applications by bridging different but relevant domains such as linguistics & paralinguistics, speech & language, emotion & health, etc. In particular, my work focuses on problems that hinder the broader use of spoken language technologies in the wild.
 
 Before starting my PhD, I used to research on affective computing and human-robot interaction at Honda Innovation Lab, [Hiroshi Ishiguro Lab ATR](http://www.geminoid.jp/en/index.html), and [Speech and Audio Processing Lab](http://sap.ist.i.kyoto-u.ac.jp/EN/).
-I was supervised by [Prof. Tatsuya Kawahara](http://sap.ist.i.kyoto-u.ac.jp/members/kawahara/) and co-supervised by [Prof. Nigel Ward](https://hb2504.utep.edu/Home/Profile?username=nigel) and [Prof. Carlos Ishi](http://www.irc.atr.jp/~carlos/).
+I was fortunately supervised by [Prof. Tatsuya Kawahara](http://sap.ist.i.kyoto-u.ac.jp/members/kawahara/) (FIEEE) and co-supervised by [Prof. Nigel Ward](https://hb2504.utep.edu/Home/Profile?username=nigel) and [Prof. Carlos Ishi](http://www.irc.atr.jp/~carlos/).
 
 
 # 🔥 News
