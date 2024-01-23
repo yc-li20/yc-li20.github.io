@@ -1,6 +1,6 @@
 # 👔 Research Activities
 ***- Organizing Committee -***
-- Special Session at Interspeech 2024: Responsible Speech Foundation Models
+- Special Session at Interspeech 2024: [Responsible Speech Foundation Models](https://sites.google.com/view/responsiblespeech/)
 - [UK Special Interest Group in Speech-Based Multimodal Information Processing](https://sites.google.com/view/uk-sigmm)
 - [UK Speech 2022](https://conferences.inf.ed.ac.uk/ukspeech2022/)
 
