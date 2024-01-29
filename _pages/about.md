@@ -25,6 +25,8 @@ Before PhD study, I used to research on affective computing and human-robot inte
 
 {% include_relative includes/talks.md %}
 
+{% include_relative includes/grants.md %}
+
 {% include_relative includes/experiences.md %}
 
 {% include_relative includes/education.md %}
