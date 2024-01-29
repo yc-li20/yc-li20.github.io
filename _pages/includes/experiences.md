@@ -16,6 +16,6 @@
   Junling Liu, MSc dissertation 2021/22, University of Edinburgh
 
 ***- Working -***
-- Research Intern, Microsoft Research Audio&Acoustic Group
+- Research Intern, Microsoft Research Audio and Acoustics Group
 - Researcher, Honda R&D Innovation Lab
 - R&D Engineer, NTT Data R&D headquarters
