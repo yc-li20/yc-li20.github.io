@@ -9,8 +9,8 @@
 - [ICMI'21 Doctoral Consortium](https://icmi.acm.org/2021/index.php?id=cfdc)
 
 ***- Journal Review -***
-- IEEE Transactions on Affective Computing x2
-- Journal of Rehabilitation and Assistive Technologies Engineering x1
+- IEEE Transactions on Affective Computing (2)
+- Journal of Rehabilitation and Assistive Technologies Engineering (1)
 
 ***- Conference Review -***
 - ICASSP'23-24, ASRU'23, Interspeech'23, SLT'22, UK Speech'22
