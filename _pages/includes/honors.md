@@ -1,5 +1,5 @@
 # 🎖 Honors and Awards
-- *2024*, 1st-Place Ranking, Odyssey 2024 Emotion Recognition Challenge
+- *2024*, 1st Place, Odyssey 2024 Emotion Recognition Challenge
 - *2023*, IEEE SPS Scholarship, IEEE Signal Processing Society
 - *2023*, Outstanding Paper Award, SAI workshop, ACII 2023
 - *2023*, Gary Marsden Travel Award, ACM SIGCHI
