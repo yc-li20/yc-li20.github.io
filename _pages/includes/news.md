@@ -1,4 +1,5 @@
 # 🔥 News
+- *03.2024*, We won the **1st place (and $1,000)** out of 31 teams in Task 1 - Categorical Emotion Recognition at [Odyssey 2024 Emotion Recognition Challenge](https://www.odyssey2024.org/emotion-recognition-challenge). &nbsp;🎉 Paper will come out soon.
 - *02.2024*, One paper accepted to ICASSP 2024 SASB workshop: [Layer-Wise Analysis of Self-Supervised Acoustic Word Embeddings: A Study on Speech Emotion Recognition](https://arxiv.org/abs/2402.02617)
 - *01.2024*, Our special session [Responsible Speech Foundation Models](https://sites.google.com/view/responsiblespeech/) has been accepted by Interspeech 2024. Looking forward to your papers.
 - *11.2023*, [Microsoft FADTK](https://github.com/microsoft/fadtk), a Frechet audio distance toolkit has been released, to which I contributed its speech models.
