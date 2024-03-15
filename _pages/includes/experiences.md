@@ -19,3 +19,4 @@
 - Research Intern, Microsoft Research Audio and Acoustics Group
 - Researcher, Honda R&D Innovation Lab
 - R&D Engineer, NTT Data R&D headquarters
+- Student Researcher, ERATO ISHIGURO Symbiotic HRI Project, ATR
