@@ -5,7 +5,7 @@
 - [UK Speech 2022](https://conferences.inf.ed.ac.uk/ukspeech2022/)
 
 ***- Program Committee -***
-- [INTERSPEECH'22 Young Female Researchers in Speech Workshop](https://sites.google.com/view/yfrsw-2022/)
+- INTERSPEECH Young Female Researchers in Speech Workshop [2024](https://sites.google.com/view/yfrsw-2024/), [2022] (https://sites.google.com/view/yfrsw-2022/)
 - [ICMI'21 Doctoral Consortium](https://icmi.acm.org/2021/index.php?id=cfdc)
 
 ***- Journal Review -***
