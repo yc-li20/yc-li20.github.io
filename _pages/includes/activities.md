@@ -13,7 +13,7 @@
 - Journal of Rehabilitation and Assistive Technologies Engineering (1)
 
 ***- Conference Review -***
-- ICASSP'23-24, ASRU'23, Interspeech'23, SLT'22, UK Speech'22
+- ICASSP'23-24, Interspeech'23-24, ASRU'23, SLT'22, UK Speech'22
 - CHI'23 Late-Breaking Work
 - IJCLR'23 CogAI Workshop
 - Interspeech'22 Young Female Researchers in Speech Workshop 
