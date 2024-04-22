@@ -6,7 +6,7 @@
 
 ***- Program Committee -***
 - INTERSPEECH Young Female Researchers in Speech Workshop [2024](https://sites.google.com/view/yfrsw-2024/), [2022] (https://sites.google.com/view/yfrsw-2022/)
-- [ICMI'21 Doctoral Consortium](https://icmi.acm.org/2021/index.php?id=cfdc)
+- [ICMI 2021 Doctoral Consortium](https://icmi.acm.org/2021/index.php?id=cfdc)
 
 ***- Journal Review -***
 - IEEE Transactions on Affective Computing (2)
