@@ -1,8 +1,8 @@
 # 💻 Experiences
 ***- Teaching -***
-- TA (Coursework marker), Automatic Speech Recognition, University of Edinburgh, 2023
+- TA (Coursework marker), Automatic Speech Recognition, University of Edinburgh, 2023 & 2024
 - TA (Tutor, demonstrator, and project marker), System Design Project, University of Edinburgh, 2023
-- TA (Coursework and exam marker), Machine Learning, University of Edinburgh, 2022
+- TA (Coursework and exam marker), Machine Learning, University of Edinburgh, 2022 & 2024
 
 ***- Supervision -***
 - Layerwise Analysis of HuBERT Acoustic Word Embeddings in the Context of Speech Emotion Recognition
