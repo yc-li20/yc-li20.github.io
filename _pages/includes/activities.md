@@ -1,6 +1,7 @@
 # 👔 Research Activities
 ***- Organizing Committee -***
-- Special Session at Interspeech 2024: [Responsible Speech Foundation Models](https://sites.google.com/view/responsiblespeech/)
+- [GenSEC (GenASR) challenge](https://sites.google.com/view/gensec-challenge) at [SLT 2024](https://2024.ieeeslt.org/challenges/#1715507565729-916ec1d3-b60d)
+- Special Session at [Interspeech 2024](https://interspeech2024.org/special-sessions-challenges/): [Responsible Speech Foundation Models](https://sites.google.com/view/responsiblespeech/)
 - [UK Special Interest Group in Speech-Based Multimodal Information Processing](https://sites.google.com/view/uk-sigmm)
 - [UK Speech 2022](https://conferences.inf.ed.ac.uk/ukspeech2022/)
 
