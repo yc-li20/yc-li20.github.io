@@ -11,6 +11,7 @@
 
 ***- Journal Review -***
 - IEEE Transactions on Affective Computing (2)
+- Computer Speech and Language (1)
 - Journal of Rehabilitation and Assistive Technologies Engineering (1)
 
 ***- Conference Review -***
