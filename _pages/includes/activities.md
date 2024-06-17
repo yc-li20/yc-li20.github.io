@@ -19,8 +19,7 @@
 - CHI'23 Late-Breaking Work
 - IJCLR'23 CogAI Workshop
 - Interspeech'22 Young Female Researchers in Speech Workshop 
-- ICMI'21 Late-Breaking Report
-- ICMI'21 Doctoral Consortium
+- ICMI'21 Late-Breaking Report & Doctoral Consortium
 - HRI'20 Late-Breaking Report
 
 ***- Organizations & Communities -***
