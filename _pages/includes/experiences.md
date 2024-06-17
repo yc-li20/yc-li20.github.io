@@ -1,4 +1,4 @@
-# 💻 Experiences
+# 👔 Experiences
 ***- Teaching -***
 - TA (Coursework marker), Automatic Speech Recognition, University of Edinburgh, 2023 & 2024
 - TA (Tutor, demonstrator, and project marker), System Design Project, University of Edinburgh, 2023

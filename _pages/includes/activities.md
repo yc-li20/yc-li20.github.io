@@ -1,4 +1,4 @@
-# 👔 Research Activities
+# 💻 Research Activities
 ***- Organizing Committee -***
 - [GenSEC (old name: GenASR) challenge](https://sites.google.com/view/gensec-challenge) at [SLT 2024](https://2024.ieeeslt.org/challenges/#1715507565729-916ec1d3-b60d)
 - Special Session at [Interspeech 2024](https://interspeech2024.org/special-sessions-challenges/): [Responsible Speech Foundation Models](https://sites.google.com/view/responsiblespeech/)
