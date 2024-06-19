@@ -13,6 +13,7 @@
 - IEEE Transactions on Affective Computing (2)
 - Computer Speech and Language (1)
 - Journal of Rehabilitation and Assistive Technologies Engineering (1)
+- Pattern Analysis and Applications (1)
 
 ***- Conference Review -***
 - ICASSP'23-24, Interspeech'23-24, ASRU'23, SLT'22, UK Speech'22
