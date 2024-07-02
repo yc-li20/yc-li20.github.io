@@ -9,11 +9,16 @@
 - [Information-processing device, vehicle, computer-readable storage medium, and information-processing method](https://patents.google.com/patent/US11710499B2/en). US11710499B2, JP2021124642A, CN113221933A
 
 ***- Technical Reports -***
+- Crossmodal ASR Error Correction with Discrete Speech Units
+  
+  **Yuanchao Li**, Pinzhen Chen, Peter Bell, Catherine Lai. UK Speech. 2024
+
 - Multimodal Dyadic Impression Recognition via Listener Adaptive Cross-Domain Fusion
 
   **Yuanchao Li**, Peter Bell, Catherine Lai. UK Speech. 2023
 
 - Exploration of A Self-Supervised Speech Model: A Study on Emotional Corpora
+  
   **Yuanchao Li**, Yumnah Mohamied, Peter Bell, Catherine Lai. UK Speech. 2022
 
 - An Extensible End-to-End Multitask Learning Model for Recognizing Driver States
