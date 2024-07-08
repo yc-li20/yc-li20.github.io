@@ -5,6 +5,5 @@
 - *2023*, Gary Marsden Travel Award, ACM SIGCHI
 - *2022*, Enrichment Student Award, Alan Turing Institute
 - *2021*, Fully-Funded PhD Scholarship, University of Edinburgh
-- *2020*, Late-Breaking Report Award Nomination, HRI 2020
 - *2016*, Seiwa International Scholarship, Kyoto University
 - *2013*, Third-Class Academic Excellence Scholarship, NUPT
