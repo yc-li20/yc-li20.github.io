@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuanchao Li"
-description              : "ISFJ. 生活在别处"
+# description              : 
 repository               : "yc-li20/yc-li20.github.io"
 # google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuanchao Li"
   avatar           : "images/android-chrome-192x192.png"
-  bio              : "PhD student at CSTR, University of Edinburgh"
+  bio              : "Final-Year PhD student at CSTR, University of Edinburgh"
   location         : "Edinburgh, UK"
   employer         :
   pubmed           : 
