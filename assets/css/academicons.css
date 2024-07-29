@@ -325,3 +325,9 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
+
+body {
+/*    width: 70%;*/
+/*    margin: 0 auto;*/
+    font-size: 18px;
+}
