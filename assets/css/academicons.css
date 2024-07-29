@@ -325,25 +325,3 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
-/*}
-body {
-    width: 70%;
-    margin: 0 auto;
-    font-size: 20px;
-}
-
-/* 在小屏幕设备上 */
-@media (max-width: 600px) {
-    body {
-        width: 100%;
-        font-size: 18px;
-    }
-}
-
-/* 在大屏幕设备上 */
-@media (min-width: 1200px) {
-    body {
-        width: 100%;
-        font-size: 18px;
-    }
-}*/
