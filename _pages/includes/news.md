@@ -1,4 +1,5 @@
 # 🔥 News
+- *08.2024*, Three papers accepted to SLT 2024!
 - *04.2024*, Our [GenSEC challenge](https://sites.google.com/view/gensec-challenge) has been accepted to SLT 2024. Looking forward to your papers!
 - *03.2024*, We won the **1st place (and $1,000)** out of 31 teams in Task 1 - Categorical Emotion Recognition at [Odyssey 2024 Emotion Recognition Challenge](https://www.odyssey2024.org/emotion-recognition-challenge). &nbsp;🎉
 - *02.2024*, One paper accepted to ICASSP 2024 SASB workshop: [Layer-Wise Analysis of Self-Supervised Acoustic Word Embeddings: A Study on Speech Emotion Recognition](https://arxiv.org/abs/2402.02617)
