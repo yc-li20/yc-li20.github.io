@@ -1,4 +1,5 @@
 # 🔥 News
+- *09.2024*, Our [SpandLDeteriorate workshop](https://sites.google.com/view/spandldeteriorate) has been accepted to ACM MM Asia 2024. Looking forward to your papers!
 - *08.2024*, Three papers accepted to SLT 2024!
 - *04.2024*, Our [GenSEC challenge](https://sites.google.com/view/gensec-challenge) has been accepted to SLT 2024. Looking forward to your papers!
 - *03.2024*, We won the **1st place (and $1,000)** out of 31 teams in Task 1 - Categorical Emotion Recognition at [Odyssey 2024 Emotion Recognition Challenge](https://www.odyssey2024.org/emotion-recognition-challenge). &nbsp;🎉

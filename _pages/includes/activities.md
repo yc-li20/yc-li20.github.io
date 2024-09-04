@@ -1,5 +1,6 @@
 # 💻 Research Activities
 ***- Organizing Committee -***
+- [Workshop on Multi-Biological Sensing Data for Speech and Language Deterioration Prediction](https://sites.google.com/view/spandldeteriorate) at ACM MM Asia 2024
 - [GenSEC (old name: GenASR) challenge](https://sites.google.com/view/gensec-challenge) at SLT 2024
 - Special Session at Interspeech 2024: [Responsible Speech Foundation Models](https://sites.google.com/view/responsiblespeech/)
 - [UK Special Interest Group in Speech-Based Multimodal Information Processing](https://sites.google.com/view/uk-sigmm)
