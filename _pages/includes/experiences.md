@@ -11,7 +11,7 @@
 
 - Revisiting the Shared Suprasegmental Acoustics Between Emotional Speech and Song through Self-Supervised Learning Models
 
-  Yujia Sun, MSc dissertation 2024/25, University of Edinburgh
+  Yujia Sun, MSc dissertation 2024/25 (Distinction), University of Edinburgh
 
 - Layerwise Analysis of HuBERT Acoustic Word Embeddings in the Context of Speech Emotion Recognition
 
