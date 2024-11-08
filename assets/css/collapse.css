@@ -14,3 +14,14 @@
 .container .content {
     display: none;
     padding : 5px;
+}
+.counter-container {
+  position: fixed; /* 固定在屏幕的一个位置 */
+  bottom: 20px; /* 距离底部的距离 */
+  right: 20px; /* 距离右侧的距离 */
+  background-color: rgba(255, 255, 255, 0.8); /* 半透明背景 */
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* 阴影效果 */
+  font-size: 14px;
+}
