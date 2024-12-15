@@ -12,6 +12,7 @@
 
 ***- Journal Review -***
 - IEEE Transactions on Affective Computing (2)
+- IEEE Transactions on Audio, Speech and Language Processing (1)
 - Computer Speech and Language (1)
 - Speech Communication (1)
 - Computers in Human Behavior (1)
