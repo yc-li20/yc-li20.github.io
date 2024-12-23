@@ -1,5 +1,5 @@
 # 🔥 News
-- *11.2024*, Our special session [Responsible Speech Foundation Models II](https://sites.google.com/view/responsiblespeech/) has been accepted to Interspeech 2025. Submit a paper and compete for the Best Paper Award!
+- *11.2024*, Our special session [Responsible Speech Foundation Models II](https://sites.google.com/view/responsiblespeech/) has been accepted to Interspeech 2025. Submit your papers and compete for the Best Paper Award!
 - *09.2024*, Our [SpandLDeteriorate workshop](https://sites.google.com/view/spandldeteriorate) has been accepted to ACM MM Asia 2024. Looking forward to your papers!
 - *08.2024*, Three papers accepted to SLT 2024!
 - *04.2024*, Our [GenSEC challenge](https://sites.google.com/view/gensec-challenge) has been accepted to SLT 2024. Looking forward to your papers!
