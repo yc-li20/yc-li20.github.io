@@ -18,6 +18,7 @@
 - Computers in Human Behavior (1)
 - Journal of Rehabilitation and Assistive Technologies Engineering (1)
 - Pattern Analysis and Applications (1)
+- Robotics and Autonomous Systems (1)
 
 ***- Conference Review -***
 - ICASSP'23-25, Interspeech'23-24, ASRU'23, SLT'22-24, UK Speech'22
