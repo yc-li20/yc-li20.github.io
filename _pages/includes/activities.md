@@ -12,8 +12,8 @@
 
 ***- Journal Review -***
 - IEEE Transactions on Affective Computing (2)
+- Computer Speech and Language (2)
 - IEEE Transactions on Audio, Speech and Language Processing (1)
-- Computer Speech and Language (1)
 - Speech Communication (1)
 - Computers in Human Behavior (1)
 - Journal of Rehabilitation and Assistive Technologies Engineering (1)
@@ -21,7 +21,7 @@
 - Robotics and Autonomous Systems (1)
 
 ***- Conference Review -***
-- ICASSP'23-25, Interspeech'23-24, ASRU'23, SLT'22-24, UK Speech'22
+- ICASSP'23-25, Interspeech'23-24, ICME'24, ASRU'23, SLT'22-24, UK Speech'22
 - Interspeech Young Female Researchers in Speech Workshop'24 & 22
 - CHI'23 Late-Breaking Work
 - IJCLR'23 CogAI Workshop
