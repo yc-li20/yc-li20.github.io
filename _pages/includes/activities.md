@@ -21,7 +21,7 @@
 - Robotics and Autonomous Systems (1)
 
 ***- Conference Review -***
-- ICASSP'23-25, Interspeech'23-24, ICME'24, ASRU'23, SLT'22-24, UK Speech'22
+- ICASSP'23-25, Interspeech'23-25, ICME'25, IJCNN'25, ASRU'23, SLT'22-24, UK Speech'22
 - Interspeech Young Female Researchers in Speech Workshop'24 & 22
 - CHI'23 Late-Breaking Work
 - IJCLR'23 CogAI Workshop
