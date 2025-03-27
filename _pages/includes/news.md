@@ -1,5 +1,6 @@
 # 🔥 News
 - *03.2025*, One paper accepted to ICME 2025. [Addressing Emotion Bias in Music Emotion Recognition and Generation with Frechet Audio Distance](https://arxiv.org/abs/2409.15545)
+- *02.2025*, Received the **ICASSP Travel Grant** from the IEEE Signal Processing Society. &nbsp;🎉
 - *12.2024*, Four papers accepted to ICASSP 2025. (two as the first author and two as the project leader)
 - *11.2024*, Our special session [Responsible Speech Foundation Models II](https://sites.google.com/view/responsiblespeech/) has been accepted to Interspeech 2025. Submit your papers and compete for the Best Paper Award!
 - *09.2024*, Our [SpandLDeteriorate workshop](https://sites.google.com/view/spandldeteriorate) has been accepted to ACM MM Asia 2024. Looking forward to your papers!
