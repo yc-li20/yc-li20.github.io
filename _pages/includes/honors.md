@@ -1,5 +1,5 @@
 # 🎖 Honors and Awards
-- *2025*, ICASSP travel grant, IEEE Signal Processing Society
+- *2025*, ICASSP Travel Grant, IEEE Signal Processing Society
 - *2024*, 3rd Place Award, 3-Min Thesis Competition, Students of Society for Affective Science
 - *2024*, 1st Place Award, Odyssey 2024 Emotion Recognition Challenge
 - *2023*, IEEE SPS Scholarship, IEEE Signal Processing Society
