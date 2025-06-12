@@ -1,4 +1,5 @@
 # 🔥 News
+- *05.2025*, Two papers accepted to Interspeech 2025.
 - *03.2025*, One paper accepted to ICME 2025. [Addressing Emotion Bias in Music Emotion Recognition and Generation with Frechet Audio Distance](https://arxiv.org/abs/2409.15545)
 - *02.2025*, Received the **ICASSP Travel Grant** from the IEEE Signal Processing Society. &nbsp;🎉
 - *12.2024*, Four papers accepted to ICASSP 2025 (two as the first author and two as the project leader) !

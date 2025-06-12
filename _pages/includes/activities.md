@@ -1,5 +1,7 @@
 # 💻 Research Activities
 ***- Organizing Committee -***
+- Workshop at ICMI 2025: [Holistic and Responsible Affective Intelligence](https://sites.google.com/view/hariworkshop)
+- Special Session at ASRU 2025: [Responsible Speech and Audio Generative AI](https://codecfake.github.io/RespSA-GenAI/)
 - [Workshop on Multi-Biological Sensing Data for Speech and Language Deterioration Prediction](https://sites.google.com/view/spandldeteriorate) at ACM MM Asia 2024
 - [GenSEC (old name: GenASR) challenge](https://sites.google.com/view/gensec-challenge) at SLT 2024
 - Special Session at Interspeech 2024: [Responsible Speech Foundation Models](https://sites.google.com/view/responsiblespeech/)
@@ -12,7 +14,7 @@
 
 ***- Journal Review -***
 - IEEE Transactions on Affective Computing (2)
-- Computer Speech and Language (2)
+- Computer Speech and Language (4)
 - IEEE Transactions on Audio, Speech and Language Processing (1)
 - Speech Communication (1)
 - Computers in Human Behavior (1)
@@ -21,7 +23,7 @@
 - Robotics and Autonomous Systems (1)
 
 ***- Conference Review -***
-- ICASSP'23-25, Interspeech'23-25, ICME'25, IJCNN'25, ASRU'23, SLT'22-24, UK Speech'22
+- ICASSP'23-25, Interspeech'23-25, ICME'25, IJCNN'25, ASRU'23-25, SLT'22-24, UK Speech'22
 - Interspeech Young Female Researchers in Speech Workshop'24 & 22
 - CHI'23 Late-Breaking Work
 - IJCLR'23 CogAI Workshop
